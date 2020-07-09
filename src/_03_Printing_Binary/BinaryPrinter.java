@@ -1,6 +1,7 @@
 package _03_Printing_Binary;
 
-public class BinaryPrinter {
+public class BinaryPrinter {dmv adult learners permit
+	
 	//Complete the methods below so they print the passed in parameter in binary.
 	//Use bit shifting and bit masking to print the binary numbers.
 	//Do not use the Integer.toBinaryString method!
